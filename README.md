@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Emanuel Lima and I am a student at the University of São Paulo, in love with close to the metal computing.🎓 👨‍💻
+My name is [Emanuel Lima](https://emanuellima.tech) and I am a student at the University of São Paulo, in love with close to the metal computing.🎓 👨‍💻
 
 ![I am a student at the University of São Paulo](https://raw.githubusercontent.com/emanuellima1/emanuellima1/master/usp.jpg)
 
