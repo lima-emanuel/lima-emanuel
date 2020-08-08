@@ -27,4 +27,4 @@ public:
 
 ![Emanuel's github stats](https://github-readme-stats.vercel.app/api?username=emanuellima1&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellima1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellima1&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
