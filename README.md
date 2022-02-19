@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is [Emanuel Lima](https://emanuellima.tech) and I am a student at the University of São Paulo, in love with close to the metal computing.🎓 👨‍💻
+My name is [Emanuel Lima](https://emanuellima.tech) and I am a MSc student in computer science at the University of São Paulo, in love with close to the metal and cloud computing.🎓 👨‍💻
 
 ![I am a student at the University of São Paulo](https://raw.githubusercontent.com/emanuellima1/emanuellima1/master/usp.jpg)
 
@@ -11,14 +11,11 @@ My name is [Emanuel Lima](https://emanuellima.tech) and I am a student at the Un
 class EmanuelLima
 {
 private:
-    std::string website {"https://emanuellima.tech"};
-    std::string telegram {"@emanuel_lima"};
     std::string twitter {"@emanuel_lima1"};
-    std::string dev_to {"@emanuellima"};
     std::string linkedin {"emanuellima1"};
 
-    std::vector<std::string> working_on {"A high performance PIXE simulator in C++", "Autotuning the LLVM IR for Rust programs"};
-    std::vector<std::string> interests {"Assembly", "C++", "Rust", "HPC", "Compilers", "LLVM", "Computer Architecture", "Analytic Philosophy"};
+    std::vector<std::string> working_on {"cadCAD: a Python library for complex system simulations", "Non-volatile memory architectures"};
+    std::vector<std::string> interests {"Linux", "Python", "Operating Systems", "Assembly", "C++", "Rust", "HPC", "Compilers", "LLVM", "Computer Architecture", "Analytic Philosophy"};
 
 public:
     EmanuelLima();
