@@ -17,8 +17,6 @@ struct EmanuelLima {
 impl EmanuelLima {
     fn new() -> Result<EmanuelLima> {
         Ok(EmanuelLima {
-            twitter: "e_manuel1",
-            working_on: "cadCAD and Kata Containers",
             interests: "Operating Systems, HPC, Compilers, Computer Architecture,\
             Confidential Computing, Cryptography, Release Engineering and DevSecOps",
         })
