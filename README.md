@@ -9,8 +9,6 @@ I'm a [Brazilian 🇧🇷](https://www.wikiwand.com/en/Brazil) currently living 
 ```rust
 #[derive(Debug)]
 struct EmanuelLima {
-    twitter: String,
-    working_on: String,
     interests: String,
 }
 
