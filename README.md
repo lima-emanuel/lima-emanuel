@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Emanuel Lima and I am a software engineer in love with low level and cloud computing. 👨‍💻
+My name is Emanuel Lima and I am a software engineer in love with low level computing and platform engineering. 👨‍💻
 
 I'm a [Brazilian 🇧🇷](https://www.wikiwand.com/en/Brazil) currently living in [Fortaleza](https://www.wikiwand.com/en/Fortaleza) 🌴🏖️
 
